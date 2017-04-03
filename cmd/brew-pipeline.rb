@@ -13,4 +13,3 @@ when 'update'
   puts 'updating an existing formula!'
 else
   puts 'Invalid command issued!'
-  Kernel.exit
